@@ -1,4 +1,4 @@
-module github.com/lamsadikhalid/kafkascope
+module github.com/KhalidLam/kafkaScope
 
 go 1.22
 

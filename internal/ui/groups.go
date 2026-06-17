@@ -7,7 +7,7 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/lamsadikhalid/kafkascope/internal/kafka"
+	"github.com/KhalidLam/kafkaScope/internal/kafka"
 )
 
 // GroupsModel renders the consumer-groups table (tab 2) and its drill-down.

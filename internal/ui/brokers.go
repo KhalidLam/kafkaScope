@@ -7,7 +7,7 @@ import (
 	"github.com/charmbracelet/bubbles/table"
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/lamsadikhalid/kafkascope/internal/kafka"
+	"github.com/KhalidLam/kafkaScope/internal/kafka"
 )
 
 // BrokersModel renders the brokers table (tab 4).

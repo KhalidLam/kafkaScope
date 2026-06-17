@@ -37,8 +37,8 @@ make run
 ## Installation
 
 ```bash
-git clone https://github.com/lamsadikhalid/kafkascope
-cd kafkascope
+git clone https://github.com/KhalidLam/kafkaScope
+cd kafkaScope
 make build           # produces bin/kafkascope
 ```
 

@@ -9,8 +9,8 @@ import (
 	"time"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/lamsadikhalid/kafkascope/internal/kafka"
-	"github.com/lamsadikhalid/kafkascope/internal/ui"
+	"github.com/KhalidLam/kafkaScope/internal/kafka"
+	"github.com/KhalidLam/kafkaScope/internal/ui"
 )
 
 const version = "0.1.0"
